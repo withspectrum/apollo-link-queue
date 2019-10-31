@@ -10,9 +10,9 @@
   version "20.0.8"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-20.0.8.tgz#7f8c97f73d20d3bf5448fbe33661a342002b5954"
 
-"@types/node@^8.0.26":
-  version "8.0.53"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.53.tgz#396b35af826fa66aad472c8cb7b8d5e277f4e6d8"
+"@types/node@^8.10.57":
+  version "8.10.57"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.57.tgz#89e32a07b701460431bc03016c808510dd6b3e64"
 
 abab@^1.0.3:
   version "1.0.4"
