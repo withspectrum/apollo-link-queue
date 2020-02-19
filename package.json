@@ -9,7 +9,7 @@
     "@types/graphql": "^0.11.7",
     "@types/jest": "^20.0.8",
     "@types/node": "^8.0.26",
-    "codecov": "^2.3.0",
+    "codecov": "^3.6.5",
     "graphql": "^0.11.7",
     "graphql-tag": "^2.10.1",
     "nyc": "^11.2.1",
